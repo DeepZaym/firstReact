@@ -4,6 +4,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #edbb22;
 }
 
 /* --- Styling dari Template Vite/React --- */
@@ -41,5 +42,5 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #edbb22;
 }
